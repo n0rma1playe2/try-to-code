@@ -34,7 +34,7 @@ def parse_webpage(url):
 
 if __name__ == "__main__":
     # 使用示例
-    url = 'http://www.baidu.com'
+    url = 'http://www.douban.com'
     soup = parse_webpage(url)
 
     if soup:
