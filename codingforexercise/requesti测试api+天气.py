@@ -7,7 +7,7 @@ base_url = "https://api.openweathermap.org/data/2.5/weather"
 city = input('请输入你的城市名 (例如 beijing): ')
 
 # 3. 你的 API Key (请确保它是有效的)
-api_key = 'baa7aa7aa3ba72c78e81a29a2a32972e' 
+api_key = ''
 
 # 4. 创建正确的参数字典
 # 格式是 '键': 值
